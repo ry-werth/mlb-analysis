@@ -12,4 +12,6 @@ All of the Work is done in Python notebooks within the `work_and_analysis` folde
 A presentation of my findings can be found in a pdf file inside of the presentation folder.
 
 # Findings
-Ultimately I was able to create a model using a teams Batting Average, On Base Percentage, and Slugging Percentage to predict their win total within 4 wins on average. I found that the Marlins were the luckiest team of 2020, and if it weren't for the shortened season and expanded playoff bracket they would have likely had a sub .500 record and missed the playoffs. Also my model predicted the Dodgers to finish 2020 with 119 wins, which would have been a Major League record. 
+Ultimately I was able to create a model using a teams Batting Average, On Base Percentage, and Slugging Percentage to predict their win total within 4 wins on average. I found that the Marlins were the luckiest team of 2020, and if it weren't for the shortened season and expanded playoff bracket they would have likely had a sub .500 record and missed the playoffs. Also my model predicted the Dodgers to finish 2020 with 119 wins, which would have been a Major League record.
+
+I made an web application for one of my models (using just pure stats), you can play around with it [here](https://mlb-model-app.herokuapp.com/).
